@@ -9,3 +9,9 @@ Goals:
   * Safe-navigational operator (.?)
   * Every valid TypeScript source code is also a valid ZypeScript programm, for ease of tranZition
   * Can Generate TypeScript
+  
+Mantras
+=====
+  * Make simple things easy and difficult things possible
+  * Shock-Minimization Principle
+
